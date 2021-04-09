@@ -1,5 +1,8 @@
 {
-    "name":         "phpspec/prophecy",
+    "name": "irontec/prophecy",
+    "replace": {
+        "phpspec/prophecy": "^1.13.0"
+    },
     "description":  "Highly opinionated mocking framework for PHP 5.3+",
     "keywords":     ["Mock", "Stub", "Dummy", "Double", "Fake", "Spy"],
     "homepage":     "https://github.com/phpspec/prophecy",
